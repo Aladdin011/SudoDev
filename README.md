@@ -1,73 +1,86 @@
-👋 Hi, I'm Salihu Nurudeen Muhammed
-🚀 Full-Stack Software Engineer | AI Automation | Microservices Architect
-👨‍💻 About Me
+<h1 align="center">👋 Hi, I'm Salihu Nurudeen Muhammed</h1>
+<h3 align="center">Full-Stack Software Engineer | AI Automation | Microservices</h3>
 
-Full-Stack Software Engineer specializing in MERN (MongoDB, Express, React, Node.js) and Next.js. I build scalable web applications, microservices, and AI-powered systems with a strong focus on clean architecture, performance, and maintainability.
+<p align="center">
+  <a href="https://linkedin.com/in/salihu-nurudeen-2431461b6">LinkedIn</a> •
+  <a href="https://SudoDev.online">Portfolio</a> •
+  <a href="mailto:nuzyflex14@gmail.com">Email</a>
+</p>
 
-I integrate DevOps practices (Docker, CI/CD) to deliver production-ready systems and work extensively with real-time data and intelligent automation.
+---
 
-🔥 Featured Projects
-🤖 AI Hiring Agent (Ease Access)
+## 👨‍💻 About Me
 
-AI-powered recruitment assistant that automates candidate screening, responses, and hiring workflows.
+Full-Stack Software Engineer focused on building scalable web applications, microservices, and AI-powered systems.
 
-⚙️ Built with: Node.js, OpenAI API, React
-🚀 Features: Automated responses, role-based filtering, workflow automation
-🎯 Impact: Reduced manual hiring workload and improved response time
+- ⚙️ MERN Stack & Next.js specialist  
+- 🧠 Strong focus on clean architecture (Controller–Service–Repository)  
+- 🚀 DevOps integration (Docker, CI/CD, deployment-ready systems)  
+- 🤖 Building AI-driven automation and real-time applications  
 
-👉 https://github.com/Aladdin001/ai-hiring-agent
+---
 
-🏢 Enterprise SSO Web Application
+## 🔥 Featured Projects
 
-Secure enterprise platform with authentication and real-time activity tracking.
+### 🤖 AI Hiring Agent  
+AI-powered recruitment assistant for automating candidate screening and workflows  
 
-⚙️ Built with: React, Node.js, JWT, Real-time DB
-🔐 Features: SSO authentication, role-based access, live data sync
-📊 Focus: Security, scalability, enterprise architecture
+**Tech:** Node.js • React • OpenAI  
+**Focus:** Automation, AI workflows, system efficiency  
 
-👉 https://github.com/Aladdin001/jdmarc-enterprise-app
+🔗 https://github.com/Aladdin001/ai-hiring-agent  
 
-📊 Real-Time Analytics System
+---
 
-High-performance analytics dashboard with live data processing and visualization.
+### 🏢 Enterprise SSO Platform  
+Secure enterprise application with authentication and real-time tracking  
 
-⚙️ Built with: Next.js, Python, Machine Learning
-📈 Features: Predictive insights, real-time updates, scalable backend
-⚡ Focus: Performance optimization & data pipelines
+**Tech:** React • Node.js • JWT  
+**Focus:** Security, RBAC, scalability  
 
-👉 https://github.com/Aladdin001/analytics-system
+🔗 https://github.com/Aladdin001/jdmarc-enterprise-app  
 
-🌐 Corporate Engineering Platform
+---
 
-Modern corporate website for engineering & construction workflows.
+### 📊 Real-Time Analytics System  
+High-performance analytics platform with live data processing  
 
-⚙️ Built with: Next.js, TailwindCSS
-🎨 Features: Responsive UI, optimized performance, accessibility-first
-🏗️ Focus: Clean design + scalable frontend architecture
+**Tech:** Next.js • Python • ML  
+**Focus:** Data pipelines, performance, real-time systems  
 
-👉 https://github.com/Aladdin001/surani-platform
+🔗 https://github.com/Aladdin001/analytics-system  
 
-⚡ Tech Stack
+---
 
-Languages: JavaScript, TypeScript, Python, Java
-Frameworks: React, Next.js, Node.js, Express
-DevOps & Tools: Docker, CI/CD
-Database: MongoDB
+### 🌐 Corporate Engineering Platform  
+Modern corporate web platform for engineering workflows  
 
-🔭 Current Focus
+**Tech:** Next.js • TailwindCSS  
+**Focus:** UI/UX, performance, accessibility  
+
+🔗 https://github.com/Aladdin001/surani-platform  
+
+---
+
+## ⚡ Tech Stack
+
+```txt
+Languages:     JavaScript • TypeScript • Python • Java  
+Frontend:      React • Next.js  
+Backend:       Node.js • Express  
+DevOps:        Docker • CI/CD  
+Database:      MongoDB
+🚀 Current Focus
 Microservices & event-driven systems (RabbitMQ)
 AI automation & intelligent agents
 Scalable backend architectures
-🌱 Learning
-Cloud Infrastructure (AWS, GCP)
-Distributed systems design
-📊 GitHub Stats
-
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aladdin001&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aladdin001&layout=compact&theme=tokyonight" /> </p>
 🧠 Philosophy
 
 Build scalable systems. Write clean code. Solve real problems.
 
 🌐 Connect
-LinkedIn: https://linkedin.com/in/salihu-nurudeen-2431461b6
-Portfolio: https://SudoDev.online
-Email: nuzyflex14@gmail.com
+💼 LinkedIn: https://linkedin.com/in/salihu-nurudeen-2431461b6
+🌍 Portfolio: https://SudoDev.online
+📧 Email: nuzyflex14@gmail.com
